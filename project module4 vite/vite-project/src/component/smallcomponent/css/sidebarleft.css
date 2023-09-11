@@ -1,0 +1,25 @@
+.active {
+  padding: 0 10px;
+  text-decoration: none;
+  color: white;
+  padding: 12px 21px;
+  font-size: 16px;
+  font-weight: 600;
+  width: 240px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  background-color: #40384e;
+}
+.NavlinkSideBar {
+  padding: 0 10px;
+  text-decoration: none;
+  color: white;
+  padding: 12px 21px;
+  font-size: 16px;
+  font-weight: 600;
+  width: 240px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+}
